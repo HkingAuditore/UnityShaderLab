@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\17885\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\17885\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Lab.1968171977.00" t="ExcludeRecursive" />
+    <e p="F:\菜鸟厨房\LAB\LAB" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="DishesRendererGUI.cs" t="Include" />
+        </e>
+        <e p="Script" t="Include">
+          <e p="DishesRenderer.cs" t="Include" />
+          <e p="Kitchenware.cs" t="Include" />
+          <e p="PourDetector.cs" t="Include" />
+          <e p="Stream.cs" t="Include" />
+        </e>
+        <e p="Shader" t="Include">
+          <e p="MultProcess.cginc" t="Include" />
+          <e p="MultProcess.shader" t="Include" />
+          <e p="MultProcessing.shader" t="Include" />
+          <e p="mya_T4M_4tex_blend_diffuse.shader" t="Include" />
+          <e p="mya_T4M_4tex_blend_normal 1.shader" t="Include" />
+          <e p="mya_T4M_4tex_blend_normal.shader" t="Include" />
+          <e p="new.shader" t="Include" />
+          <e p="NewBlender.shader" t="Include" />
+          <e p="Parallex.shader" t="Include" />
+          <e p="Pour" t="Include">
+            <e p="Pour.shader" t="Include" />
+          </e>
+          <e p="Test.shader" t="Include" />
+          <e p="testss.shader" t="Include" />
+          <e p="Texture Splatting with First Light PBS.shader" t="Include" />
+          <e p="Texture Splatting.shader" t="Include" />
+        </e>
+      </e>
+      <e p="Lab.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
